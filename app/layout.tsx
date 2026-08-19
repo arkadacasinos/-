@@ -40,6 +40,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="ru" className="bg-background">
       <head>
+        <meta name="yandex-verification" content="2a7d3991d0868b20" />
         <meta name="referrer" content="strict-origin-when-cross-origin" />
         <script
   dangerouslySetInnerHTML={{
